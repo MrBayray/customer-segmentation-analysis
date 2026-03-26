@@ -1,3 +1,8 @@
+## 🔥 Project Highlights
+- Built a machine learning model using KMeans
+- Segmented customers into actionable groups
+- Generated insights for business decision-making
+- 
 # 📊 Customer Segmentation Analysis
 
 ## 📌 Project Overview
